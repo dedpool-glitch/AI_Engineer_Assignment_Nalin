@@ -30,6 +30,10 @@ RA: Welcome. If you have any other questions, please let me know. Bye.
 B: By the way.
 
 2) Summarization:
+Borrower's last month's EMI hasn't arrived yet, says X Y Z Finance . Recovery Agent (RA) asks borrower to make payments by next week . He says he hopes to get a new job by next month, then pay the rest of the money . The borrower says he is 'having a little trouble' because he can't give the full EMI . The debt collector says it is important to pay the loan on time and deposit half of the EMI up to the next week, and pay rest of next month .
+
+3) Sentiment Analysis:
+
 
 
 ## Result Explanation
