@@ -33,7 +33,53 @@ B: By the way.
 Borrower's last month's EMI hasn't arrived yet, says X Y Z Finance . Recovery Agent (RA) asks borrower to make payments by next week . He says he hopes to get a new job by next month, then pay the rest of the money . The borrower says he is 'having a little trouble' because he can't give the full EMI . The debt collector says it is important to pay the loan on time and deposit half of the EMI up to the next week, and pay rest of next month .
 
 3) Sentiment Analysis:
+Text: Recovery Agent (RA): Hello Mr. Kumar, I'm talking to X Y Z Finance. I had to talk about your loan.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.8278596997261047}]
 
+Text: Borrower: Yes, speak. What's the matter?
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9892157316207886}]
+
+Text: RA: Sir, your last month's EMI hasn' t arrived yet. Is there a problem?
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9990589022636414}]
+
+Text: B: Yeah, I'm having a little trouble. My job' s gone and I'm looking for a new job.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9995023012161255}]
+
+Text: RA: Oh, that's bad. But sir, you have to understand that it' s very important to pay the loan on time.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.6003400683403015}]
+
+Text: B: I understand, but I don 't have the money yet. Can I have some time?
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9988842606544495}]
+
+Text: RA: We understand your situation. Can you make some payments by next week?
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9534904956817627}]
+
+Text: B: I 'll try, but I can' t give the full EMI. Will half the payment go?
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9981967806816101}]
+
+Text: RA: Okay, make half the payment by next week. What's your plan for the rest?
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9965583682060242}]
+
+Text: B: I hope to get a new job by next month. Then I 'll pay the rest.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9934502840042114}]
+
+Text: RA: All right. So we 'll do that - you deposit half of the EMI up to the next week, and pay the rest up to the 15th of next month. Do you accept that?
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9802226424217224}]
+
+Text: B: Yeah, it 'll be fine. I' ll do my best to follow this plan.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9990525841712952}]
+
+Text: RA: Very good. I'm sending you an SMS with payment details. Please follow this and pay on time.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9997013211250305}]
+
+Text: B: Well, thank you for understanding.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9998034834861755}]
+
+Text: RA: Welcome. If you have any other questions, please let me know. Bye.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9995200634002686}]
+
+Text: B: By the way.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9887120723724365}]
 
 
 ## Result Explanation
