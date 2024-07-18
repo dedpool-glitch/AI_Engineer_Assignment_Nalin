@@ -11,7 +11,26 @@ I will explain what the code in the Jupyter Notebook does. Hugging Faces' transf
 
 
 ## Results
-1) Translation: 
+1) Translation:
+Recovery Agent (RA): Hello Mr. Kumar, I'm talking to X Y Z Finance. I had to talk about your loan.
+Borrower: Yes, speak. What's the matter?
+RA: Sir, your last month's EMI hasn' t arrived yet. Is there a problem?
+B: Yeah, I'm having a little trouble. My job' s gone and I'm looking for a new job.
+RA: Oh, that's bad. But sir, you have to understand that it' s very important to pay the loan on time.
+B: I understand, but I don 't have the money yet. Can I have some time?
+RA: We understand your situation. Can you make some payments by next week?
+B: I 'll try, but I can' t give the full EMI. Will half the payment go?
+RA: Okay, make half the payment by next week. What's your plan for the rest?
+B: I hope to get a new job by next month. Then I 'll pay the rest.
+RA: All right. So we 'll do that - you deposit half of the EMI up to the next week, and pay the rest up to the 15th of next month. Do you accept that?
+B: Yeah, it 'll be fine. I' ll do my best to follow this plan.
+RA: Very good. I'm sending you an SMS with payment details. Please follow this and pay on time.
+B: Well, thank you for understanding.
+RA: Welcome. If you have any other questions, please let me know. Bye.
+B: By the way.
+
+2) Summarization:
+
 
 ## Result Explanation
 
